@@ -1,0 +1,16 @@
+/workspace/src/AuthApp.Application/bin/Debug/net8.0/AuthApp.Application.deps.json
+/workspace/src/AuthApp.Application/bin/Debug/net8.0/AuthApp.Application.dll
+/workspace/src/AuthApp.Application/bin/Debug/net8.0/AuthApp.Application.pdb
+/workspace/src/AuthApp.Application/bin/Debug/net8.0/AuthApp.Domain.dll
+/workspace/src/AuthApp.Application/bin/Debug/net8.0/AuthApp.Domain.pdb
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.csproj.AssemblyReference.cache
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.AssemblyInfoInputs.cache
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.AssemblyInfo.cs
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.csproj.CoreCompileInputs.cache
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.sourcelink.json
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.csproj.CopyComplete
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.dll
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/refint/AuthApp.Application.dll
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/AuthApp.Application.pdb
+/workspace/src/AuthApp.Application/obj/Debug/net8.0/ref/AuthApp.Application.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AuthApp.Application/1.0.0": {
+        "dependencies": {
+          "AuthApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AuthApp.Application.dll": {}
+        }
+      },
+      "AuthApp.Domain/1.0.0": {
+        "runtime": {
+          "AuthApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuthApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuthApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
